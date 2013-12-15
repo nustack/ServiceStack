@@ -1,8 +1,13 @@
-See [servicestack.net/features](http://servicestack.net/features) for an overview.
 
-Join the [ServiceStack Google+ Community](https://plus.google.com/u/0/communities/112445368900682590445) or
-follow [@ServiceStack](http://twitter.com/servicestack) for project updates. 
-You can catch some community members hanging out on [JabbR](http://jabbr.net/#/rooms/servicestack).
+Note:
+-------------
+This is **not** the official ServiceStack V3, this is a fork off the commercial branch to avoid package conflicts. This is not an actively developed branch, but public contributions are welcome. 
+
+Thanks @mythz for all the hard work. The official V3 branch can be found here:[ServiceStackV3 / ServiceStackV3](https://github.com/nustack/ServiceStackV3)  
+
+-----
+
+See [servicestack.net/features](http://servicestack.net/features) for an overview.
 
 Service Stack is a high-performance .NET web services platform that simplifies the development of high-performance 
 REST (JSON, XML, JSV, HTML, MsgPack, ProtoBuf, CSV) and WCF SOAP [Web Services](https://github.com/ServiceStack/ServiceStack/wiki/Service-Stack-Web-Services). 
